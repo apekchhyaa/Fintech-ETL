@@ -47,6 +47,24 @@ There were **2,113 fraud-labelled transactions** and
 
 The overall fraud rate was approximately **1.06%**.
 
+## Visualizations
+
+### Daily transaction activity
+
+![Daily transaction count](../output/charts/01_daily_transaction_count.png)
+
+### Transaction amount by channel
+
+![Amount by channel](../output/charts/02_amount_by_channel.png)
+
+### Transaction amount by merchant category
+
+![Amount by category](../output/charts/03_amount_by_category.png)
+
+### Fraud rate by channel
+
+![Fraud rate by channel](../output/charts/04_fraud_rate_by_channel.png)
+
 ## Conclusion
 
 The ETL pipeline cleaned and combined customer, merchant, and transaction

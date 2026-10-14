@@ -10,6 +10,7 @@ steps = [
     "clean_data.py",
     "enrich_data.py",
     "generate_insights.py",
+    "visualize_insights.py",
     "generate_finding.py",
 ]
 
